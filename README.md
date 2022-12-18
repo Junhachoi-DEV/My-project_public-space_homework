@@ -6,6 +6,8 @@
   
 컨셉: 시가전 ( 서든어택에 웨어하우스를 모티브로함 )  
 밑에 하수구을 연결하여 적에 뒤를 칠 수 있음.
+## 참고 3d 자료
+https://free3d.com/ko/3d-model/array-house-example-3033.html  
 
 ## 맵 도면(초기)
 <img src="https://user-images.githubusercontent.com/87477736/208268765-2990f416-f067-4cee-8811-eb7607e1a4e0.jpg" width="591" height="443"/>
@@ -17,3 +19,4 @@
 ![4](https://user-images.githubusercontent.com/87477736/208268512-4e5410d8-b912-40e3-ba2b-fc9bba65b949.PNG)  
 ![3](https://user-images.githubusercontent.com/87477736/208268513-e14c2b8c-df39-4c90-9eb1-fcb2a125f183.PNG)  
 ![2](https://user-images.githubusercontent.com/87477736/208268514-b8afd401-0b48-434d-96ef-903ddb5452d1.PNG)  
+![5](https://user-images.githubusercontent.com/87477736/208288442-bbc98010-b82f-4354-bb4c-e1e46ce503ef.PNG)

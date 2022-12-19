@@ -8,6 +8,10 @@
 밑에 하수구을 연결하여 적에 뒤를 칠 수 있음.
 ## 참고 3d 자료
 https://free3d.com/ko/3d-model/array-house-example-3033.html  
+## 배운것
+쉐이더 스크립트에 대해서 배움.  
+블렌더에 대해서 자세히 배움.  
+물 구현을 배움.  
 
 ## 맵 도면(초기)
 <img src="https://user-images.githubusercontent.com/87477736/208268765-2990f416-f067-4cee-8811-eb7607e1a4e0.jpg" width="591" height="443"/>
@@ -19,4 +23,9 @@ https://free3d.com/ko/3d-model/array-house-example-3033.html
 ![4](https://user-images.githubusercontent.com/87477736/208268512-4e5410d8-b912-40e3-ba2b-fc9bba65b949.PNG)  
 ![3](https://user-images.githubusercontent.com/87477736/208268513-e14c2b8c-df39-4c90-9eb1-fcb2a125f183.PNG)  
 ![2](https://user-images.githubusercontent.com/87477736/208268514-b8afd401-0b48-434d-96ef-903ddb5452d1.PNG)  
-![5](https://user-images.githubusercontent.com/87477736/208288442-bbc98010-b82f-4354-bb4c-e1e46ce503ef.PNG)
+![5](https://user-images.githubusercontent.com/87477736/208288442-bbc98010-b82f-4354-bb4c-e1e46ce503ef.PNG)  
+![1](https://user-images.githubusercontent.com/87477736/208474082-95156713-1cb9-4e82-add9-503a9743260e.PNG)  
+![2](https://user-images.githubusercontent.com/87477736/208474091-ce435cfe-2f92-4c05-aa92-bdee7c8baa61.PNG)  
+![3](https://user-images.githubusercontent.com/87477736/208474094-44887fec-8fda-4195-a70e-d1c041475eb2.PNG)  
+![4](https://user-images.githubusercontent.com/87477736/208474099-110fedd0-5166-4ebc-86c0-f5b50fd23229.PNG)  
+![5](https://user-images.githubusercontent.com/87477736/208474104-7871a705-8f04-446a-bbed-d25a75c1d34d.PNG)  

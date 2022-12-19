@@ -8,6 +8,8 @@
 밑에 하수구을 연결하여 적에 뒤를 칠 수 있음.
 ## 참고 3d 자료
 https://free3d.com/ko/3d-model/array-house-example-3033.html  
+https://celestialbody.tistory.com/18  
+https://rito15.github.io/posts/water-shader/  
 ## 배운것
 쉐이더 스크립트에 대해서 배움.  
 블렌더에 대해서 자세히 배움.  

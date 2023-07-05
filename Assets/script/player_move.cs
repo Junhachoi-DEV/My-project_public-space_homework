@@ -43,6 +43,9 @@ public class player_move : MonoBehaviour
         character_rotation();
         do_run();
         do_jump();
+
+        Cursor.lockState = CursorLockMode.Locked;
+        Cursor.visible = false;
     }
 
     void FixedUpdate()
